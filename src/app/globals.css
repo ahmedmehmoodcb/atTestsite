@@ -1,0 +1,224 @@
+.slick-slider-custom-logos {
+  height: 90px;
+}
+.detailInnerConBox.detailInnerConBoxcontus.hireNewForm
+  form
+  .form-control.invalid {
+  background: linear-gradient(#fff 0 0) padding-box,
+    /*this is your white background*/
+      linear-gradient(130deg, #e51d1d 2.38%, #fff 98.89%) border-box !important;
+}
+.close-button {
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  padding-top: 0px;
+  border: 0;
+  right: 0;
+}
+
+.contactUsForm.invalid {
+  border-color: #e51d1d !important;
+}
+.innerPageBorder {
+  border-bottom: 1px solid #0b6e6e;
+}
+/* 
+.search .wrapper:first-child svg {
+  border: 4px solid blue !important;
+}
+
+.search .wrapper:first-child input {
+  border: 4px solid red !important;
+}
+
+.search .wrapper:first-child {
+  border: 4px solid orange;
+} */
+
+.search-icon {
+  display: none !important;
+}
+
+.skill-container .skill-form .wrapper {
+  border-radius: 0;
+  /* z-index: 999 !important; */
+  position: static !important;
+  font-size: 14px !important;
+}
+
+.skill-container .skill-form .wrapper div:nth-child(2) {
+  display: block !important;
+  background-color: white !important;
+  z-index: 10000 !important ;
+}
+
+.skill-container .skill-form .wrapper:hover {
+  box-shadow: none;
+}
+
+.skill-container .skill-form .wrapper:active {
+  box-shadow: none;
+}
+
+.skill-container .skill-form .wrapper:focus-within {
+  box-shadow: none;
+}
+
+.skill-container .skill-form .wrapper .sc-fqkvVR.dYrfwz {
+  min-height: 28px !important;
+  border: 1px solid #76a9a8 !important;
+}
+
+.skill-container .skill-form .wrapper .sc-fqkvVR.dYrfwz input {
+  font-size: 12px !important;
+}
+.skill-container .skill-form .wrapper .sc-fqkvVR.dYrfwz .clear-icon {
+  margin-top: 0;
+}
+
+.innerSlider .slick-slide {
+  margin: 0px !important;
+}
+
+.slick-slider-custom-logos .slick-list .slick-track .slick-slide {
+  margin: 0 !important;
+}
+
+.offer-section-slider {
+  padding-block: 20px !important;
+}
+.offer-section-slider .slick-slide {
+  padding-inline: 20px !important;
+}
+
+.offer-section-slider .slick-dots {
+  display: flex !important;
+  padding-block: 10px;
+}
+#msform input.previous.action-button-previous {
+  border-radius: 25rem;
+  background: linear-gradient(#fff 0 0) padding-box,
+    /*this is your white background*/
+      linear-gradient(130deg, #1a706e 2.38%, #fff 98.89%) border-box !important;
+  border: 3px solid transparent !important;
+  box-sizing: border-box !important;
+  color: #000 !important;
+  padding: 13px;
+}
+@media only screen and (max-width: 786px) {
+  #msform .next.action-button.nextStepBtnHire {
+    float: right !important;
+    width: 131px !important;
+    padding: 20px 48px !important;
+  }
+  #msform input.previous.action-button-previous {
+    border-radius: 25rem !important;
+    background: linear-gradient(#fff 0 0) padding-box,
+      /*this is your white background*/
+        linear-gradient(130deg, #1a706e 2.38%, #fff 98.89%) border-box !important;
+    border: 3px solid transparent !important;
+    box-sizing: border-box !important;
+    color: #000 !important;
+    padding: 13px !important;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  html {
+    overflow-x: hidden;
+  }
+  #msform {
+    padding: 0 1rem;
+    background: #fff;
+  }
+  #msform .action-button {
+    width: 250px !important;
+    padding: 20px 16px !important;
+  }
+}
+@media only screen and (max-width: 420px) {
+  #rc-anchor-container .rc-anchor-content {
+  }
+
+  #msform input.previous.action-button-previous {
+    padding: 11px 13px;
+  }
+  span.chip.js-chip {
+    font-size: 12px !important;
+  }
+  #msform .action-button {
+    width: 250px !important;
+    padding: 20px 16px !important;
+  }
+  #msform .next.action-button.nextStepBtnHire {
+    float: right !important;
+    width: 87px !important;
+    padding: 20px 17px !important;
+  }
+  .fs-title {
+    font-size: 21px !important;
+  }
+  .offer-section-slider {
+    padding-block: 0px !important;
+  }
+  .offer-section-slider .slick-slide {
+    padding-inline: 15px !important;
+  }
+  #msform .action-button {
+    width: 261px !important;
+  }
+  html {
+    overflow-x: hidden !important;
+  }
+}
+/* .slick-slider-custom-logos .slick-slide {
+  width: 100px !important;
+  display: flex !important;
+  justify-content: center !important;
+} */
+
+/* sc-dcJsrY jiMOeR */
+/* .modal{
+  display: block !important;
+  visibility: hidden;
+} */
+.about-us-slider-section .slick-dots {
+  display: flex !important;
+  left: 0% !important;
+  bottom: -20px !important;
+}
+.mainHeaderMenu-collapse-links li {
+  list-style: none;
+}
+.mainHeaderMenu-collapse-links li a {
+  font-size: 16px !important;
+}
+.mainHeaderMenu-collapse-links li a:hover {
+  background-color: transparent !important;
+  color: #000 !important;
+}
+.mainHeaderMenu-collapse-links li a img {
+  /* width: 26px; */
+  padding-right: 10px;
+}
+.sliderLogo .slick-slider {
+  pointer-events: none !important;
+}
+.sliderLogo .slick-slider:hover {
+  pointer-events: none !important;
+}
+
+.sliderLogo1 .slick-slider {
+  pointer-events: none !important;
+}
+.sliderLogo1 .slick-slider:hover {
+  pointer-events: none !important;
+}
+
+.customer-logos3 .slick-slider {
+  pointer-events: none !important;
+}
+.customer-logos3 .slick-slider:hover {
+  pointer-events: none !important;
+}

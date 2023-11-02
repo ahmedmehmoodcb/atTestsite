@@ -1,0 +1,692 @@
+.navTabRes.portfolio-tabs .servicesTxt {
+  margin-bottom: 2rem;
+}
+.portfolio-card-main:hover {
+  box-shadow: 4px 4px 16px 0px rgb(116 116 116 / 50%);
+  background: #fff;
+  /* border: 1px solid #2aa49226; */
+}
+.portfolio-card-main {
+  border-radius: 26px;
+  overflow: hidden;
+  background: #fff;
+  margin-bottom: 43px;
+  box-shadow: 4px 4px 16px 0px rgba(116, 116, 116, 0.15);
+}
+.portfolio-card-main .portfolio-content {
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.portfolio-card-main .bg-portfolio {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: #0000005c;
+}
+.portfolio-card-main:hover .bg-portfolio {
+  opacity: 1;
+}
+.portfolio-card-main .portfolio-content .btn-design {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.48px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 19px;
+  display: inline-flex;
+  padding: 4px 24px;
+  align-items: flex-start;
+  border-radius: 50px;
+  background: #0b6e6e;
+  margin-top: 11px;
+}
+.portfolio-card-main .portfolio-img img {
+  width: 100%;
+}
+.portfolio-title {
+  color: #000 !important;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.54px;
+}
+.portfolio-tabs .servicesTxt li button {
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding: 0.5rem 2rem;
+  width: max-content;
+}
+.portfolio-tabs .servicesTxt li button.active {
+  color: #0b6e6e;
+}
+.portfolio-tabs .servicesTxt li button.active {
+  color: #0b6e6e !important;
+  border-bottom: 3px solid #0b6e6e !important;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background-color: transparent !important;
+  position: relative;
+  z-index: 1;
+}
+.dream-project {
+  color: white;
+  position: relative;
+}
+.dream-project h2 {
+  font-size: 56px;
+  font-weight: 700;
+}
+.dream-project p {
+  font-size: 18px;
+}
+.dream-project-bg {
+  background-color: #0b6e6e;
+}
+.dream-project .dream-project-img img {
+  position: absolute;
+  bottom: -6%;
+}
+.inner-blog a {
+  color: #0b6e6e;
+}
+.recent-posts h2.title {
+  display: block;
+  padding: 14px 15px;
+  text-align: center;
+  background: #1a6d6c;
+  font-size: 19px;
+  font-weight: 600;
+  color: #fff !important;
+  margin-top: 10px;
+}
+.recent-post {
+  border-bottom: 1px dotted #ccc;
+}
+
+.detailInnerConBox.detailInnerConBoxcontus.hireNewForm {
+  padding: 0;
+  background: transparent;
+}
+
+#heading {
+  text-transform: uppercase;
+  color: #673ab7;
+  font-weight: normal;
+}
+
+#msform {
+  text-align: center;
+  position: relative;
+  margin-top: 4rem;
+}
+
+#msform fieldset {
+  background: white;
+  border: 0 none;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.form-card {
+  text-align: left;
+}
+
+#msform fieldset:not(:first-of-type) {
+  display: none;
+}
+
+.detailInnerConBox.detailInnerConBoxcontus.hireNewForm form .form-control {
+  padding: 11px 8px 11px 39px;
+  border-radius: 25rem;
+  background: linear-gradient(#fff 0 0) padding-box,
+    /*this is your white background*/
+      linear-gradient(130deg, #1a706e 2.38%, #fff 98.89%) border-box;
+  border: 3px solid transparent;
+  box-sizing: border-box;
+}
+.detailInnerConBox.detailInnerConBoxcontus.hireNewForm form .Name:before {
+  background: url(https://atrule.s3.us-east-2.amazonaws.com/public/assets/images/Userhire.png);
+  top: 20px;
+  width: 10px;
+  height: 12px;
+  left: 22px;
+}
+.detailInnerConBox.detailInnerConBoxcontus.hireNewForm form .email:before {
+  background: url(https://atrule.s3.us-east-2.amazonaws.com/public/assets/images/envelopehire.png);
+  top: 21px;
+  width: 12px;
+  height: 10px;
+  left: 22px;
+}
+.detailInnerConBox.detailInnerConBoxcontus.hireNewForm form .message:before {
+  background: url(https://atrule.s3.us-east-2.amazonaws.com/public/assets/images/phonehire.png);
+  top: 21px;
+  width: 12px;
+  height: 12px;
+  left: 22px;
+}
+
+.detailInnerConBox.detailInnerConBoxcontus.hireNewForm
+  form
+  .form-control:focus {
+  box-shadow: 0 0 0 transparent;
+}
+.hire-para {
+  color: #000;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+}
+/* #msform input,
+#msform textarea {
+  padding: 8px 15px 8px 15px;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  margin-bottom: 25px;
+  margin-top: 2px;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: montserrat;
+  color: #2c3e50;
+  background-color: #eceff1;
+  font-size: 16px;
+  letter-spacing: 1px;
+} */
+
+/* #msform input:focus,
+#msform textarea:focus {
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border: 1px solid #673ab7;
+  outline-width: 0;
+} */
+
+#msform .action-button {
+  width: 400px;
+  height: 54px;
+  padding: 20px 104px;
+  flex-direction: column;
+  transition: background-color 1s;
+
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  border: 0;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background: #0b6e6e;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 130% */
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+
+#msform .action-button:hover,
+#msform .action-button:focus {
+  background-color: transparent;
+  border: 2px solid #0b6e6e;
+  color: #0b6e6e;
+  transition: background-color 1s;
+}
+
+#msform .action-button-previous {
+  background-image: url(https://atrule.s3.us-east-2.amazonaws.com/public/assets/images/backhirebtn.png);
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  border: 0;
+  background: transparent;
+  float: left;
+  position: relative;
+}
+/* .previous.action-button-previous::before {
+  content: "";
+  background: url(https://atrule.s3.us-east-2.amazonaws.com/public/assets/images/backicon.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 11px;
+  height: 19px;
+} */
+/* background: url(https://atrule.s3.us-east-2.amazonaws.com/public/assets/images/backicon.png); */
+
+.form-card.border-bottom input[type="button"] {
+  background-image: radial-gradient(red 15%, transparent 16%);
+  background-size: 1em 1em;
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+/* input[type=button]:after {
+  content: '[after]';
+  width: 22px;
+  height: 22px;
+  background: #00a4a4;
+  display: inline-block;
+  position: absolute;
+} */
+
+.next.action-button.nextStepBtnHire {
+  float: right;
+  width: 206px !important;
+}
+#msform .action-button-previous:hover,
+#msform .action-button-previous:focus {
+  /* background-color: #000000; */
+}
+.card {
+  z-index: 0;
+  border: none;
+  position: relative;
+}
+.steps.hireform-Steps {
+  color: #00a4a4;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  text-align: center;
+  line-height: normal;
+  letter-spacing: 1.2px;
+}
+.fs-title {
+  color: #0b6e6e;
+  font-family: Inter;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.8px;
+}
+
+.purple-text {
+  color: #673ab7;
+  font-weight: normal;
+}
+
+.steps {
+  font-size: 25px;
+  color: gray;
+  margin-bottom: 10px;
+  font-weight: normal;
+  text-align: right;
+}
+
+.fieldlabels {
+  color: gray;
+  text-align: left;
+}
+
+#progressbar {
+  margin-bottom: 30px;
+  overflow: hidden;
+  color: lightgrey;
+}
+
+#progressbar .active {
+  color: #673ab7;
+}
+
+#progressbar li {
+  list-style-type: none;
+  font-size: 15px;
+  width: 25%;
+  float: left;
+  position: relative;
+  font-weight: 400;
+}
+
+#progressbar #account:before {
+  font-family: FontAwesome;
+  content: "\f13e";
+}
+
+#progressbar #personal:before {
+  font-family: FontAwesome;
+  content: "\f007";
+}
+
+#progressbar #payment:before {
+  font-family: FontAwesome;
+  content: "\f030";
+}
+
+#progressbar #confirm:before {
+  font-family: FontAwesome;
+  content: "\f00c";
+}
+
+#progressbar li:before {
+  width: 50px;
+  height: 50px;
+  line-height: 45px;
+  display: block;
+  font-size: 20px;
+  color: #ffffff;
+  background: lightgray;
+  border-radius: 50%;
+  margin: 0 auto 10px auto;
+  padding: 2px;
+}
+
+#progressbar li:after {
+  content: "";
+  width: 100%;
+  height: 2px;
+  background: lightgray;
+  position: absolute;
+  left: 0;
+  top: 25px;
+  z-index: -1;
+}
+#progressbar li.active:before,
+#progressbar li.active:after {
+  background: #35b5b5;
+}
+.progress {
+  height: 20px;
+}
+.progress-bar {
+  background-color: #35b5b5;
+  border-radius: 20px;
+}
+.fit-image {
+  width: 100%;
+  object-fit: cover;
+}
+.fs-title.second-slider {
+  color: #0b6e6e;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.2px;
+}
+.form-check.mt-3.hireRadio label.form-check-label {
+  color: #000;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px;
+  margin-left: 10px;
+}
+.form-check.mt-3.hireRadio .form-check-input {
+  border-radius: 85px;
+  border: 2px solid #1a706e;
+  /* background: linear-gradient(130deg, #fff 2.38%, #fff 98.89%); */
+  backdrop-filter: blur(30px);
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.form-check.mt-3.hireRadio .form-check-input:checked {
+  background-color: #1a706e;
+}
+
+.next.action-button.nextStepBtnHire.skip {
+  border-radius: 25rem;
+  background: linear-gradient(#fff 0 0) padding-box,
+    /*this is your white background*/
+      linear-gradient(130deg, #1a706e 2.38%, #fff 98.89%) border-box !important;
+  border: 3px solid transparent !important;
+  box-sizing: border-box !important;
+  color: #000 !important;
+}
+.next.action-button.nextStepBtnHire:hover {
+  padding: 20px 102px !important;
+}
+.next.action-button.nextStepBtnHire.skip:hover {
+  padding: 20px 104px !important;
+}
+.form-check.hirecheckbax .form-check-input {
+  border: 2px solid #76a9a8;
+  border-radius: 0;
+  width: 24px;
+  height: 24px;
+  /* background-color: #1a706e; */
+}
+.form-check.hirecheckbax .form-check-input:checked {
+  background-color: #1a706e;
+  /* border-color: #0d6efd; */
+}
+.form-check.mt-3.hirecheckbax label.form-check-label {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.form-check.mt-3.hirecheckbax label.form-check-label h5 {
+  color: #000;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  /* line-height: 29px; */
+  margin-bottom: 0;
+}
+.form-check.mt-3.hirecheckbax label.form-check-label p {
+  color: #292929;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 26px;
+  margin-bottom: 0;
+}
+a.next.action-button {
+  text-decoration: none;
+}
+.hireBackHome {
+  color: #1a706e;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 130% */
+  letter-spacing: 0.6px;
+  text-decoration-line: underline;
+}
+.hireBackHome:hover {
+  color: #1a706e;
+}
+.hireBackHome img {
+  margin-right: 15px;
+  margin-top: -4px;
+}
+
+/* .skill-container {
+  padding: 4em;
+  width: 100%;
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+} */
+
+@media only screen and (max-width: 40em) {
+  .skill-container {
+    padding: 1em;
+  }
+}
+
+.skill-container > .title {
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+.skill-container > .desc {
+  font-size: 0.8em;
+  line-height: 1.7;
+  color: #898888;
+  margin-bottom: 2em;
+}
+
+.skill-form {
+  /* width: 80%;
+  margin-bottom: 0; */
+}
+
+.btn {
+  background-color: #fff;
+  border: 0;
+  padding: 0.9em 2em;
+  border: solid 1px #dedddd;
+}
+
+.btn-primary {
+  background-color: #1071f2;
+  color: #fff;
+  border: solid 1px transparent;
+}
+
+.skill-form > .action {
+  display: block;
+  width: 100%;
+  /* margin-top: 5em; */
+}
+
+.skill-input {
+  display: flex;
+  margin-bottom: 1em;
+}
+
+.skill-input > input {
+  border: 1px solid #76a9a8;
+  display: block;
+  width: 100%;
+  padding: 6px 11px 5px 11px;
+
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.skill-form > label {
+  display: block;
+  font-size: 0.8em;
+  margin-bottom: 0.5em;
+}
+
+.skill-sets {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.chip {
+  border-radius: 100px;
+  border: 2px solid #0b6e6e;
+  /* background: linear-gradient(130deg, #FFF 2.38%, #FFF 98.89%); */
+  /* backdrop-filter: blur(30px); */
+  display: inline-flex;
+  color: #0b6e6e;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  cursor: move;
+  padding: 4px 11px;
+  margin-left: 7px;
+  margin-top: 8px;
+}
+
+.chip--ghost {
+  opacity: 0.4;
+  border: dashed 1px #1071f2;
+}
+
+.chip > .cross {
+  font-size: 1.25em;
+  line-height: 27px;
+  margin-left: 5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+[draggable] {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.dev-skill h5 {
+  color: #000;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 0;
+  line-height: 29px; /* 181.25% */
+}
+.skill-input > input:focus {
+  outline-width: 0;
+}
+.skill-input > input::placeholder {
+  color: #525252;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+/* .tags {
+  color: #000;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+} */
+span.chip.js-chip {
+  padding: 8px 14px;
+  margin-left: 5px;
+  margin-top: 10px;
+  border-radius: 100px;
+  border: 2px solid rgba(0, 0, 0, 0.6);
+  background: linear-gradient(130deg, #fff 2.38%, #fff 98.89%);
+  backdrop-filter: blur(30px);
+  color: #000;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  cursor: pointer;
+}
+form#msform .form-card.border-bottom.pb-5.mb-4 {
+  border-bottom: 2px solid #9bdddd !important;
+}

@@ -1,0 +1,1239 @@
+[
+  {
+    "id": 1,
+    "title": "Motorway Conditions",
+    "type": "mob",
+    "heading": "(Mobile App)",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is your ultimate travel companion, designed to make journeys across Pakistani motorways and highways hassle-free. With real-time updates on your mobile screen, you'll stay informed about road conditions, diversions, and weather updates. Whether you're a traveler or tourist, this user-friendly app ensures you have a smooth and stress-free trip.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Motorway-Conditions.png"
+      },
+      {
+        "imagesrc": "images/Motorway-Conditions-1.png"
+      },
+      {
+        "imagesrc": "images/Motorway-Conditions-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.weatherhighway&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Food Calories App",
+    "heading": "(Mobile App)",
+    "type": "mob",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Food-Calories.png"
+      },
+      {
+        "imagesrc": "images/Food-Calories-1.png"
+      },
+      {
+        "imagesrc": "images/Food-Calories-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.calorieapp&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Fashion Point",
+    "heading": "(eCommerce Store)",
+    "type": "ecom",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Fashion-Store.png"
+      },
+      {
+        "imagesrc": "images/Fashion-Store-1.png"
+      },
+      {
+        "imagesrc": "images/Fashion-Store-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://khaadidemo.atcommerce.pk/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pizza Street",
+    "heading": "(Landing page)",
+    "type": "web",
+    "Overview": "Overview",
+    "popupPara": "Pizza Street is live and fully functional demo of our eCommerce store theme designed for our eCommerce platform, \"Atcommerce.\" This theme is designed for \"Food & Drink\" stores.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Responsive design</li><li>Product catalog</li><li>Search functionality</li><li>Shopping cart and checkout process</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Asp.Net Core",
+        "url": "#"
+      },
+      {
+        "test": "JavaScript",
+        "url": "#"
+      },
+      {
+        "test": "HTML5",
+        "url": "#"
+      },
+      {
+        "test": "Bootstrap",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Fashion-Store-3.png"
+      },
+      {
+        "imagesrc": "images/Fashion-Store-1-1.png"
+      },
+      {
+        "imagesrc": "images/Fashion-Store2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://pizzademo.atcommerce.pk/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Motorway Conditions",
+    "heading": "(Landing Page)",
+    "type": "web",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Motorway-Conditions-3.png"
+      },
+      {
+        "imagesrc": "images/Motorway-Conditions-1-1.png"
+      },
+      {
+        "imagesrc": "images/Motorway-Conditions-2-1.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://motorwaytoday.pk/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Currency Rates and Converter",
+    "heading": "(Mobile App)",
+    "type": "web",
+    "Overview": "Overview",
+    "popupPara": "Currency Rates and Converter is your go-to app if you want to be aware of currency rates frequently. This app is updated with even minute fluctuations in currency rates in real-time. You can also convert and check the value of your desired currency against other foreign currencies. Moreover, you can check the updated gold rates with this app.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Real-time currency rates</li><li>Convert and calculate the value of currencies</li><li>Real-time gold rates</li><li>Price update reminder</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "4 weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "#"
+      },
+      {
+        "test": "Dart",
+        "url": "#"
+      },
+      {
+        "test": "GetX",
+        "url": "#"
+      },
+      {
+        "test": "Google Services",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Currency-Rates-Converter.png"
+      },
+      {
+        "imagesrc": "images/Currency-Rates-Converter-1.png"
+      },
+      {
+        "imagesrc": "images/Currency-Rates-Converter-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.currencyconverter&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "ATCOMMERCE",
+    "heading": "(STORE BUILDER)",
+    "type": "ecom",
+    "Overview": "Overview",
+    "popupPara": "Atcommerce is an eCommerce platform designed to take away all the hassles of the store-making process. It lets customers build a captivating online store that engages, inspires, and converts customers.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Mobile & Web App</li><li>Checkout & Payment Features</li><li>Tax & Shipping Features</li><li>SEO Friendly</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "4 Weeks",
+    "techstack": [
+      {
+        "test": "Html5 & Css3",
+        "url": "#"
+      },
+      {
+        "test": "Javascript & Jquery",
+        "url": "#"
+      },
+      {
+        "test": "Bootstrap",
+        "url": "#"
+      },
+      {
+        "test": "Asp.Net core MVC",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/services/ecommerce-Store-builder.png"
+      },
+      {
+        "imagesrc": "images/services/ecommerce-Store-builder-1.png"
+      },
+      {
+        "imagesrc": "images/services/ecommerce-Store-builder-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://atcommerce.pk/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Point of Sale Software",
+    "heading": "(ATPOS)",
+    "type": "ecom",
+    "Overview": "Overview",
+    "popupPara": "Atpos is a powerful point of sale software designed and developed by Atrule to enhance the interaction between stores and customers, streamlining operations for both parties.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Inventory Management</li><li>Sales Register</li><li>Tax Setup</li><li>Sales Summary</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "C#",
+        "url": "#"
+      },
+      {
+        "test": "Windows Forms",
+        "url": "#"
+      },
+      {
+        "test": "MS-SQL Server",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/POS.png"
+      },
+      {
+        "imagesrc": "images/POS-1.png"
+      },
+      {
+        "imagesrc": "images/POS-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://www.youtube.com/watch?v=gLW4G4t0BG8"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Landing page UI/UX Design",
+    "heading": "(Landing page)",
+    "type": "web",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Food-Calories-3.png"
+      },
+      {
+        "imagesrc": "images/Food-Calories-1-1.png"
+      },
+      {
+        "imagesrc": "images/Food-Calories-2-1.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://foodcalories.pk/"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "UI/UX Design (App Design)",
+    "heading": "(Mobile App)",
+    "type": "uiux",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Petrol-Price-Today.png"
+      },
+      {
+        "imagesrc": "images/Petrol-Price-Today-1.png"
+      },
+      {
+        "imagesrc": "images/Petrol-Price-Today-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Purple Housing",
+    "heading": "(Mobile App)",
+    "type": "mob",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.weatherhighway&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Digital Marketing",
+    "heading": "(Mobile App)",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.weatherhighway&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Pakistan Petrol Price Today",
+    "heading": "(Mobile App)",
+    "Overview": "Overview",
+    "popupPara": "Pakistan Petrol Price Today is a convenient, user-friendly, and the most advanced vehicle management app. With its features to track mileage, fuel consumption, expenses, and real-time fuel prices, it simplifies your vehicle management tasks. Moreover, you can calculate the fuel used, trip cost, and more with its different calculators.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Check updated fuel prices</li><li>Track your vehicle’s expenses</li><li>Maintenance reminders</li><li>Different calculators (mileage, fuel use, and more)</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "6 weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "#"
+      },
+      {
+        "test": "Dart",
+        "url": "#"
+      },
+      {
+        "test": "GetX",
+        "url": "#"
+      },
+      {
+        "test": "SQ Lite",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "What to Eat: Food Calories",
+    "heading": "(Mobile App)",
+    "Overview": "Overview",
+    "popupPara": "What to Eat: Food Calories is your go-to mobile app for a healthier lifestyle. With this app, users can easily access nutrition details for their meals, including the all-important \"food calories.\" But that's not all – you can also find easy activities to burn off those extra calories.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Track your calorie consumption</li><li>Discover your ideal daily calorie intake</li><li>Track the macros & micros of your food</li><li>Find activities to burn off excess calories</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "5 weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "#"
+      },
+      {
+        "test": "Dart",
+        "url": "#"
+      },
+      {
+        "test": "GetX",
+        "url": "#"
+      },
+      {
+        "test": "Google Services",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.calorieapp&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": " Fashion store",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is an easy-to-use mobile application that allows you to check real-time updates of Pakistani Motorways and Highways, be they weather updates, road updates, or fog updates.",
+    "popupPara2": "This app was designed for the convenience of travelers and tourists along Pakistani highways and motorways and to help them avoid.",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.weatherhighway&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Clothing store",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "Clothing is live and fully functional demo of our eCommerce store theme designed for our eCommerce platform, \"Atcommerce.\" This theme is designed for \"Clothing & Apparel\" stores.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Responsive design</li><li>Product catalog</li><li>Search functionality</li><li>Shopping cart and checkout process</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "1 Week",
+    "techstack": [
+      {
+        "test": "Asp.Net Core",
+        "url": "#"
+      },
+      {
+        "test": "JavaScript",
+        "url": "#"
+      },
+      {
+        "test": "HTML5",
+        "url": "#"
+      },
+      {
+        "test": "Bootstrap",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://guldemo.atcommerce.pk/"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Fashion Store",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "Fashion Store is live and fully functional demo of our eCommerce store theme designed for our eCommerce platform, \"Atcommerce.\" This theme is designed for \"Clothing & Apparel\" stores.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Responsive design</li><li>Responsive design</li><li>Search functionality</li><li>Shopping cart and checkout process</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": " 1 week",
+    "techstack": [
+      {
+        "test": "Asp.Net Core",
+        "url": "#"
+      },
+      {
+        "test": "JavaScript",
+        "url": "#"
+      },
+      {
+        "test": "HTML5",
+        "url": "#"
+      },
+      {
+        "test": "Bootstrap",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://khaadidemo.atcommerce.pk/"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Ecommerce Store Builder",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "Atcommerce is an eCommerce platform designed to take away all the hassles of the store-making process. It lets customers build a captivating online store that engages, inspires, and converts customers.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Mobile & Web App</li><li>Checkout & Payment Features</li><li>Tax & Shipping Features</li><li>SEO Friendly</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Html5 & Css3",
+        "url": "#"
+      },
+      {
+        "test": "Javascript & Jquery",
+        "url": "#"
+      },
+      {
+        "test": "Bootstrap",
+        "url": "#"
+      },
+      {
+        "test": "Asp.Net core MVC",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://atcommerce.pk/"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Motorway Conditions Today",
+    "heading": "(Mobile App)",
+    "Overview": "Overview",
+    "popupPara": "Motorway Conditions Today is your ultimate travel companion, designed to make journeys across Pakistani motorways and highways hassle-free. With real-time updates on your mobile screen, you'll stay informed about road conditions, diversions, and weather updates. Whether you're a traveler or tourist, this user-friendly app ensures you have a smooth and stress-free trip.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Real-time highway and motorway updates</li><li>Fog insights on highways and motorways</li><li>Northern area updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "5 weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "#"
+      },
+      {
+        "test": "Dart",
+        "url": "#"
+      },
+      {
+        "test": "GetX",
+        "url": "#"
+      },
+      {
+        "test": "Google Services",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.weatherhighway&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Motorway Today",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "Our websites are not just visually appealing but also offer a flawless user experience throughout. We focus on functionality, responsiveness, and user experience to ensure that every visitor enjoys a seamless journey. Take a look at the seamlessness of our work in this demo.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Wireframing and Prototyping</li><li>Visual Design</li><li>Responsive Design</li><li>Interaction Design</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 weeks",
+    "techstack": [
+      {
+        "test": "CSS",
+        "url": "#"
+      },
+      {
+        "test": "WordPress",
+        "url": "#"
+      },
+      {
+        "test": "HTML5",
+        "url": "#"
+      },
+      {
+        "test": "PHP",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://motorwaytoday.pk/"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Petrol Price",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "Our websites are not just visually appealing but also offer a flawless user experience throughout. We focus on functionality, responsiveness, and user experience to ensure that every visitor enjoys a seamless journey. Take a look at the seamlessness of our work in this demo.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Wireframing and Prototyping</li><li>Visual Design</li><li>Responsive Design</li><li>Interaction Design</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "2 Weeks",
+    "techstack": [
+      {
+        "test": "CSS",
+        "url": "#"
+      },
+      {
+        "test": "WordPress",
+        "url": "#"
+      },
+      {
+        "test": "HTML5",
+        "url": "#"
+      },
+      {
+        "test": "PHP",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://petrolprices.pk/"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Food Calories",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "Our websites are not just visually appealing but also offer a flawless user experience throughout. We focus on functionality, responsiveness, and user experience to ensure that every visitor enjoys a seamless journey. Take a look at the seamlessness of our work in this demo.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Wireframing and Prototyping</li><li>Visual Design</li><li>Responsive Design</li><li>Interaction Design</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "2 Weeks",
+    "techstack": [
+      {
+        "test": "CSS",
+        "url": "#"
+      },
+      {
+        "test": "WordPress",
+        "url": "#"
+      },
+      {
+        "test": "HTML5",
+        "url": "#"
+      },
+      {
+        "test": "PHP",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://foodcalories.pk/"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Currency Rates",
+    "heading": "(Website)",
+    "type": "web",
+    "Overview": "Overview",
+    "popupPara": "Our websites are not just visually appealing but also offer a flawless user experience throughout. We focus on functionality, responsiveness, and user experience to ensure that every visitor enjoys a seamless journey. Take a look at the seamlessness of our work in this demo.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Wireframing and Prototyping</li><li>Visual Design</li><li>Responsive Design</li><li>Interaction Design</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "CSS",
+        "url": "#"
+      },
+      {
+        "test": "WordPress",
+        "url": "#"
+      },
+      {
+        "test": "HTML5",
+        "url": "#"
+      },
+      {
+        "test": "PHP",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/Currency-Rates-Converter.png"
+      },
+      {
+        "imagesrc": "images/Currency-Rates-Converter-1.png"
+      },
+      {
+        "imagesrc": "images/Currency-Rates-Converter-2.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://currencyrates.app/"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Motorway Conditions Today",
+    "heading": "(Mobile App)",
+    "Overview": "Overview",
+    "popupPara": "At Atrule, we are experts in app design. Our focus is on crafting designs that are not only visually appealing but also intuitive and user-friendly. With our expertise, we ensure that every interaction on the app is smooth, making for a delightful user experience. Experience the perfect balance of aesthetics and functionality with our app designs.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Wireframing</li><li>UI/UX Designing</li><li>Prototyping</li><li>Testing</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "2 Weeks",
+    "techstack": [
+      {
+        "test": "Figma",
+        "url": "#"
+      },
+      {
+        "test": "PhotoShop",
+        "url": "#"
+      },
+      {
+        "test": "Illustrator",
+        "url": "#"
+      },
+      {
+        "test": "Wireframing",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.weatherhighway&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Pakistan Petrol Price Today",
+    "heading": "(Mobile App)",
+    "Overview": "Overview",
+    "popupPara": "At Atrule, we are experts in app design. Our focus is on crafting designs that are not only visually appealing but also intuitive and user-friendly. With our expertise, we ensure that every interaction on the app is smooth, making for a delightful user experience. Experience the perfect balance of aesthetics and functionality with our app designs.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Wireframing</li><li>UI/UX Designing</li><li>Prototyping</li><li>Testing</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Figma",
+        "url": "#"
+      },
+      {
+        "test": "PhotoShop",
+        "url": "#"
+      },
+      {
+        "test": "Illustrator",
+        "url": "#"
+      },
+      {
+        "test": "Wireframing",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Download App",
+        "url": "https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday&hl=en&gl=US"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Food Calories",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "At Atrule, we go beyond aesthetics and craft websites that offer a seamless and enjoyable user experience on both web and mobile, ensuring that every interaction on the website is smooth and intuitive. Discover the perfect blend of beauty and functionality with our designs.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Wireframing</li><li>UI/UX Designing</li><li>Prototyping</li><li>Testing</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "2 Weeks",
+    "techstack": [
+      {
+        "test": "Figma",
+        "url": "#"
+      },
+      {
+        "test": "PhotoShop",
+        "url": "#"
+      },
+      {
+        "test": "Illustrator",
+        "url": "#"
+      },
+      {
+        "test": "Wireframing",
+        "url": "#"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://foodcalories.pk/"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Ecommerce Store Builder",
+    "heading": "(Website)",
+    "Overview": "Overview",
+    "popupPara": "At Atrule, we go beyond aesthetics and craft websites that offer a seamless and enjoyable user experience on both web and mobile, ensuring that every interaction on the website is smooth and intuitive. Discover the perfect blend of beauty and functionality with our designs.",
+    "popupPara2": "",
+    "projectFeatures": "Project Features",
+    "listUlli": "<li>Motorway and Highway road conditions</li><li>Motorway fog insights</li><li>Northern areas road updates</li><li>Weather forecast and updates</li>",
+    "popupClient": "Atrule Technlogies",
+    "duration": "3 Weeks",
+    "techstack": [
+      {
+        "test": "Flutter",
+        "url": "https://www.google.com"
+      },
+      {
+        "test": "React",
+        "url": "https://youtube.com"
+      },
+      {
+        "test": "Android",
+        "url": "https://yahoo.com"
+      }
+    ],
+    "imagespopup": [
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      },
+      {
+        "imagesrc": "images/popupProImg.png"
+      }
+    ],
+    "downloadBtn": [
+      {
+        "btnTxt": "Live Demo",
+        "url": "https://atcommerce.pk/"
+      }
+    ]
+  }
+]

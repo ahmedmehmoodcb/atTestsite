@@ -1,0 +1,65 @@
+[
+  {
+    "type": "developer",
+    "tags": [
+      ".net",
+      "C++",
+      "Javascript",
+      "reactjs",
+      "vuejs",
+      "angular",
+      "react native",
+      "Css",
+      "Sass",
+      "scss",
+      "MongoDB",
+      "Sql",
+      "Flutter",
+      "Html",
+      "C#"
+    ]
+  },
+  {
+    "type": "project manager",
+    "tags": [
+      "Communication",
+      "Leadership",
+      "Organization",
+      "Negotiation",
+      "Team management",
+      "Time management",
+      "Risk management",
+      "Problem-solving",
+      "Budget management",
+      "Motivation",
+      "Technical writing",
+      "Adaptability",
+      "Technical skills",
+      "Reporting skills",
+      "Active listening",
+      "Research skills",
+      "Interpersonal skills",
+      "Project management methodologies",
+      "Policy knowledge",
+      "Conflict management"
+    ]
+  },
+  {
+    "type": "seo",
+    "tags": ["Social Media marketing", "Writing Content", "Content marketing"]
+  },
+  {
+    "type": "sqa",
+    "tags": [
+      "Testing Automating",
+      "Scripting",
+      "Communication skills",
+      "Selenium",
+      "Innovation"
+    ]
+  },
+  {
+    "type": "designer",
+    "tags": ["Html", "css", "figma", "Adobe photoshop", "Adobe XD"]
+  }
+]
