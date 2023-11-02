@@ -13,7 +13,7 @@ const nextConfig = {
       },
     ];
   },
-  output: "export",
+  // output: "export",
   trailingSlash: true,
   compress: true,
   images: {
