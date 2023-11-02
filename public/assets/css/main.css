@@ -119,11 +119,11 @@ span.byline {
 .mainGgNew {
 }
 .mainGg.innerPageBorder.innerHome {
-  background: url(../assets/images/headerBg.png);
+  background: url(/assets/images/headerBg.png);
   background-size: cover;
 }
 /* .headerbgimg img {
-  background: url(../assets/images/headerBg.png); 
+  background: url(/assets/images/headerBg.png); 
   position: absolute;
   width: 100%;
   z-index: -1;
@@ -521,7 +521,7 @@ button.navbar-toggler-iconNew span {
   margin-bottom: 1rem;
 }
 .buildYourTeam {
-  background: url(../assets/images/buildTeam.png);
+  background: url(/assets/images/buildTeam.png);
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 8rem;
@@ -762,7 +762,7 @@ ul.footerMap li div img {
   position: relative;
 }
 .serviceConDetail ul li::before {
-  background: url(../assets/images/arrow.png);
+  background: url(/assets/images/arrow.png);
   position: absolute;
   content: "";
   width: 24px;
@@ -921,7 +921,7 @@ section.innerTop {
   padding: 1rem 0 !important;
 }
 section.whatweoffer {
-  background: url(../assets/images/innerOfferabout.png);
+  background: url(/assets/images/innerOfferabout.png);
   background-size: cover;
 }
 .innerParDetail p {
@@ -1188,7 +1188,7 @@ ul.slick-dots li button {
   margin: 7rem 2rem 9rem 2rem;
 }
 .innerConBackImg {
-  background: url(../assets/images/innerright-1.png);
+  background: url(/assets/images/innerright-1.png);
   background-repeat: no-repeat;
   background-position: 452px 0px;
   padding: 4rem 0 12rem 0;
@@ -1312,7 +1312,7 @@ ul.slick-dots li button {
 .Name:before {
   position: absolute;
   content: "";
-  background: url(../assets/images/User.png);
+  background: url(/assets/images/User.png);
   width: 11px;
   height: 13px;
   top: 11px;
@@ -1322,7 +1322,7 @@ ul.slick-dots li button {
 .email:before {
   position: absolute;
   content: "";
-  background: url(../assets/images/envelope.png);
+  background: url(/assets/images/envelope.png);
   width: 12px;
   height: 9px;
   top: 13px;
@@ -1332,7 +1332,7 @@ ul.slick-dots li button {
 .message:before {
   position: absolute;
   content: "";
-  background: url(../assets/images/Pen.png);
+  background: url(/assets/images/Pen.png);
   width: 11px;
   height: 13px;
   top: 11px;
@@ -1405,7 +1405,7 @@ span.solidTxt {
   font-size: 60px;
 }
 .visionMission {
-  background: url(../assets/images/missionBg.png) no-repeat;
+  background: url(/assets/images/missionBg.png) no-repeat;
   background-size: cover;
   padding: 2rem 0 !important;
 }
@@ -1434,7 +1434,7 @@ span.solidTxt {
   font-weight: 500;
 }
 section.whatweoffer.clientsSection {
-  background: url(../assets/images/clientMainBG.png) no-repeat;
+  background: url(/assets/images/clientMainBG.png) no-repeat;
   background-size: cover;
   padding: 5rem 0 0rem 0 !important;
 }
@@ -1511,11 +1511,11 @@ section.innerTop.topMobileApp {
   font-weight: 400;
 }
 section.whatweoffer.servicesWhatweOffer {
-  background: url(../assets/images/servicesWhatweOffer.png) no-repeat;
+  background: url(/assets/images/servicesWhatweOffer.png) no-repeat;
   background-size: cover;
 }
 section.whatweoffer.wtWeofferMobileAppServices {
-  background: url(../assets/images/wtWeofferMobileAppServices.png) no-repeat;
+  background: url(/assets/images/wtWeofferMobileAppServices.png) no-repeat;
   background-size: cover;
   padding: 2rem 0rem !important;
 }
@@ -1563,7 +1563,7 @@ section.whatweoffer.wtWeofferMobileAppServices .cardNew:hover {
 /************** Products page starts ********************/
 
 .Products-main {
-  background: url(../assets/images/servicesWhatweOffer.png) no-repeat;
+  background: url(/assets/images/servicesWhatweOffer.png) no-repeat;
   background-size: cover;
 }
 .Products-main .title h2 {
@@ -1621,7 +1621,7 @@ section.whatweoffer.wtWeofferMobileAppServices .cardNew:hover {
   margin: 0rem 2rem 0rem 2rem;
 }
 .innerTop.topMobileApp.contactusPage {
-  background: url(../assets/images/contactusPage.png);
+  background: url(/assets/images/contactusPage.png);
   background-size: cover;
 }
 /* Contactus page style End */
@@ -1678,7 +1678,7 @@ section.blogImg {
   margin-bottom: 2rem;
 }
 section.portfolio {
-  background: url(../assets/images/portfolioBG.png);
+  background: url(/assets/images/portfolioBG.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 2rem;
@@ -1872,7 +1872,7 @@ section.innerTop.topMobileApp.blogPageImg {
 }
 .Pfeature ul li:before {
   position: absolute;
-  background: url(../assets/images/summary-check.png);
+  background: url(/assets/images/summary-check.png);
   content: "";
   width: 20px;
   left: 0;
@@ -2048,7 +2048,7 @@ a.hireBtn.sumbitBtn.contactusPage:hover {
 }
 @media screen and (max-width: 1440px) and (min-width: 1292px) {
   .mainGgNew {
-    background: url(../assets/images/headerBg.png);
+    background: url(/assets/images/headerBg.png);
     background-size: cover;
     background-position: 84rem;
   }
@@ -3091,7 +3091,7 @@ a.hireBtn.sumbitBtn.contactusPage:hover {
     margin-top: 16px;
   }
   .buildYourTeam {
-    background: url(../assets/images/buildTeam.png);
+    background: url(/assets/images/buildTeam.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding-top: 2rem;
@@ -4111,21 +4111,21 @@ a.hireBtn.sumbitBtn.contactusPage:hover {
   box-sizing: border-box;
 }
 .detailInnerConBox.detailInnerConBoxcontus.hireNewForm form .Name:before {
-  background: url(../assets/images/Userhire.png);
+  background: url(/assets/images/Userhire.png);
   top: 20px;
   width: 10px;
   height: 12px;
   left: 22px;
 }
 .detailInnerConBox.detailInnerConBoxcontus.hireNewForm form .email:before {
-  background: url(../assets/images/envelopehire.png);
+  background: url(/assets/images/envelopehire.png);
   top: 21px;
   width: 12px;
   height: 10px;
   left: 22px;
 }
 .detailInnerConBox.detailInnerConBoxcontus.hireNewForm form .message:before {
-  background: url(../assets/images/phonehire.png);
+  background: url(/assets/images/phonehire.png);
   top: 21px;
   width: 12px;
   height: 12px;
@@ -4179,7 +4179,7 @@ a.hireBtn.sumbitBtn.contactusPage:hover {
 }
 
 #msform .action-button-previous {
-  background-image: url(../assets/images/backhirebtn.png);
+  background-image: url(/assets/images/backhirebtn.png);
   color: #000;
   text-align: center;
   font-family: Inter;

@@ -6,10 +6,7 @@ export default function WhatsApp() {
         className="whatsappchat"
         target="_blank"
       >
-        <img
-          src="https://atrule.s3.us-east-2.amazonaws.com/public/assets/images/whatsapp-icon.svg"
-          alt="whatsapp"
-        />
+        <img src="/assets/images/whatsapp-icon.svg" alt="whatsapp" />
       </a>
     </>
   );
