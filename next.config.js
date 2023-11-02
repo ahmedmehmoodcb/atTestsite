@@ -14,7 +14,7 @@ const nextConfig = {
     ];
   },
   // output: "export",
-  trailingSlash: true,
+  // trailingSlash: true,
   compress: true,
   images: {
     unoptimized: true,
